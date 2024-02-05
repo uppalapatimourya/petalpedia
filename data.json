@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rose",
+    "meaning": "Symbolizes love, passion, and beauty.",
+    "uniqueness": "Varieties include hybrid teas, floribundas, and climbers.",
+    "description": "A popular flower that is often associated with expressions of love.",
+    "originState": "Asia",
+    "originPlace": "Asia",
+    "history": "Roses have been cultivated for thousands of years.",
+    "images": [
+      {
+        "url": "https://example.com/rose_image1.jpg",
+        "alt": "Rose Image 1"
+      },
+      {
+        "url": "https://example.com/rose_image2.jpg",
+        "alt": "Rose Image 2"
+      }
+    ],
+    "geoLocation": {
+      "country": "India",
+      "latitude": 20.5937,
+      "longitude": 78.9629
+    },
+    "bloomingSeason": "Spring to Fall",
+    "colors": ["Red", "White", "Pink", "Yellow"],
+    "careTips": "Requires well-drained soil and regular pruning.",
+    "uses": ["Floral arrangements", "Perfume extraction", "Medicinal purposes"],
+    "relatedFlowers": [2, 3]
+  }
+]
